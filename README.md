@@ -1,2 +1,2 @@
 # CS370
-Treasure Hunting Game Final Project
+## Treasure Hunting Game Final Project
